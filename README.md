@@ -5,7 +5,7 @@
 <a href=https://instagram.com/drowes target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="drowes" height="20" width="20" /></a>
 </p>
 
-### I am a fullstack developer and Comp-Sci major at UMD
+### I am a fullstack developer and Comp-Sci major at [@UMD](https://umd.edu/)
 
 - 🔭 I’m currently working on a MERN stack app
 - 🌱 I’m currently learning about web development 🔍
