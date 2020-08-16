@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Daniel <img src="https://emojis.slackmojis.com/emojis/images/1595173218/9723/dog_cool.gif?1595173218" width="30" margin-top="5"/></h1>
 <p align="center">
-<a href=https://drowe.dev target="blank"><img align="center" src=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg alt="rahuldkjain" height="20" width="20" /></a>
-<a href=https://linkedin.com/in/rahuldkjain target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="rahuldkjain" height="20" width="20" /></a>
-<a href=https://instagram.com/drowes target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="rahuldkjain" height="20" width="20" /></a>
+<a href=https://drowe.dev target="blank"><img align="center" src=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg alt="drowe.dev" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/danjrowe target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="danjrowe" height="20" width="20" /></a>
+<a href=https://instagram.com/drowes target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="drowes" height="20" width="20" /></a>
 </p>
 
 ### I am a fullstack developer and Comp-Sci major at UMD
