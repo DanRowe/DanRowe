@@ -5,7 +5,7 @@
 <a href=https://instagram.com/drowes target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="drowes" height="20" width="20" /></a>
 </p>
 
-### I am a full stack web developer, data science beginner and Comp-Sci major [@UMD](https://umd.edu/)
+### I am a full stack web developer, data science beginner, and Comp-Sci major [@UMD](https://umd.edu/)
 
 - 🔭 Working on a private MERN stack app
 - 🌱 Learning about creating and deploying web apps
