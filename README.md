@@ -9,7 +9,7 @@
 
 - 🔭 Working on a private MERN stack app
 - 🌱 Learning about creating and deploying web apps
-- ⚡ Fun fact: I wrote my first line of code in JavaScript in 2011
+- ⚡ Fun fact: The first line of code I wrote was in JavaScript back in 2011
 
 ## Technologies
 
