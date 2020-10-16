@@ -9,7 +9,7 @@
 
 - 🔭 Working on a private MERN stack app
 - 🌱 Learning about Kubernetes!
-- 📚 Studying creating compilers, secure programming, and software paradigms.
+- 📚 Studying compilers, secure programming, and software paradigms.
 - ⚡ Fun fact: The first line of code I wrote was in JavaScript back in 2011
 
 ## Technologies
