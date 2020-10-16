@@ -8,7 +8,8 @@
 ### I am a full stack web developer, data science beginner, and Comp-Sci major [@UMD](https://umd.edu/)
 
 - 🔭 Working on a private MERN stack app
-- 🌱 Learning about creating compilers, secure programming, and software paradigms
+- 🌱 Learning about Kubernetes!
+- 📚 Studying creating compilers, secure programming, and software paradigms.
 - ⚡ Fun fact: The first line of code I wrote was in JavaScript back in 2011
 
 ## Technologies
