@@ -3,7 +3,7 @@
 <a href=https://drowe.dev target="blank"><img align="center" src=https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg alt="drowe.dev" height="20" width="20" /></a>
 <a href=https://linkedin.com/in/danjrowe target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="danjrowe" height="20" width="20" /></a>
 <a href=https://instagram.com/drowes target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="drowes" height="20" width="20" /></a>
-<a href=https://dev.to/danrowe target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg alt="danrowe" height="20" width="20" /></a>
+<a href=https://dev.to/danrowe target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Daniel Rowe's DEV Profile" height="20" width="20"></a>
 </p>
 
 ### I am a full stack web developer, data science beginner, and Comp-Sci major [@UMD](https://umd.edu/)
@@ -51,19 +51,19 @@
 <!-- [![DanRowe1's github stats](https://github-readme-stats.danrowe1.vercel.app/api?username=DanRowe1&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My Github Data**
 
 > 🏆 1,914 Contributions in the Year 2020
- > 
-> 📦 160.6 kB Used in Github's Storage 
- > 
+ >
+> 📦 160.6 kB Used in Github's Storage
+ >
 > 🚫 Not Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
+ >
+> 📜 12 Public Repositories
+ >
 > 🔑 22 Private Repositories  
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning    8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.59% 
@@ -72,7 +72,8 @@
 🌙 Night      56 commits     █████████░░░░░░░░░░░░░░░░   39.16%
 
 ```
-📅 **I'm Most Productive on Friday** 
+
+📅 **I'm Most Productive on Friday**
 
 ```text
 Monday       19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.29% 
@@ -85,8 +86,7 @@ Sunday       22 commits     ███░░░░░░░░░░░░░░�
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 💬 Programming Languages: 
@@ -100,6 +100,5 @@ JavaScript               38 mins             ██░░░░░░░░░�
 VS Code                  6 hrs 43 mins       █████████████████████████   100.0%
 
 ```
-
 
 <!--END_SECTION:waka-->
