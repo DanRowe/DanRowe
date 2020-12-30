@@ -4,6 +4,7 @@
 <a href=https://linkedin.com/in/danjrowe target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="danjrowe" height="20" width="20" /></a>
 <a href=https://instagram.com/drowes target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="drowes" height="20" width="20" /></a>
 <a href=https://dev.to/danrowe target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Daniel Rowe's DEV Profile" height="20" width="20"></a>
+<a href=https://www.npmjs.com/~danrowe target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/npm.svg alt="Daniel Rowe's npmjs profile" height="20" width="20" /></a>
 </p>
 
 ### I am a full stack web developer, data science beginner, and Comp-Sci major [@UMD](https://umd.edu/)
