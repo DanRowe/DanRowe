@@ -1,10 +1,15 @@
 <h1 align="center">Hey, I'm Daniel <img src="https://emojis.slackmojis.com/emojis/images/1595173218/9723/dog_cool.gif?1595173218" width="30" margin-top="5"/></h1>
 <p align="center">
 <a href=https://drowe.dev target="blank"><img align="center" src="./img/globe.svg" alt="drowe.dev" height="20" width="20" /></a>
+<a href=https://drowe.dev target="blank"><img align="center" src="./img/globe_dark.svg" alt="drowe.dev" height="20" width="20" /></a>
 <a href=https://linkedin.com/in/danjrowe target="blank"><img align="center" src="./img/linkedin.svg" alt="danjrowe" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/danjrowe target="blank"><img align="center" src="./img/linkedin_dark.svg" alt="danjrowe" height="20" width="20" /></a>
 <a href=https://instagram.com/drowes target="blank"><img align="center" src="./img/instagram.svg" alt="drowes" height="20" width="20" /></a>
+<a href=https://instagram.com/drowes target="blank"><img align="center" src="./img/instagram_dark.svg" alt="drowes" height="20" width="20" /></a>
 <a href=https://dev.to/danrowe target="blank"><img align="center" src="./img/dev-badge.svg" alt="Daniel Rowe's DEV Profile" height="20" width="20"></a>
+<a href=https://dev.to/danrowe target="blank"><img align="center" src="./img/dev-badge_dark.svg" alt="Daniel Rowe's DEV Profile" height="20" width="20"></a>
 <a href=https://www.npmjs.com/~danrowe target="blank"><img align="center" src="./img/npm.svg" alt="Daniel Rowe's npmjs profile" height="20" width="20" /></a>
+<a href=https://www.npmjs.com/~danrowe target="blank"><img align="center" src="./img/npm_dark.svg" alt="Daniel Rowe's npmjs profile" height="20" width="20" /></a>
 </p>
 
 ### I am a full stack web developer, data science beginner, and Comp-Sci major [@UMD](https://umd.edu/)
