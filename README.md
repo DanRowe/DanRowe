@@ -12,6 +12,12 @@
 <a href=https://www.npmjs.com/~danrowe target="blank"><img align="center" src="./img/npm_dark.svg" alt="Daniel Rowe's npmjs profile" height="20" width="20" /></a>
 </p>
 
+Connect with me in your terminal by running ⬇
+```bash
+npx danrowe
+```
+Learn how to create your own [here](https://github.com/DanRowe/npx-card)
+
 ### I am a full stack web developer, data science beginner, and Comp-Sci major [@UMD](https://umd.edu/)
 
 - 🔭 Working on a private MERN stack app
