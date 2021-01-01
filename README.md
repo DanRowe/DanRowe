@@ -16,7 +16,7 @@ Connect with me in your terminal by running ⬇
 ```bash
 npx danrowe
 ```
-Learn how to create your own [here](https://github.com/DanRowe/npx-card#readme)
+Learn how to [create your own](https://github.com/DanRowe/npx-card#readme)
 
 ### I am a full stack web developer, data science beginner, and Comp-Sci major [@UMD](https://umd.edu/)
 
