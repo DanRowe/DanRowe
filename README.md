@@ -65,9 +65,9 @@ Learn how to [create your own](https://github.com/DanRowe/npx-card#readme)
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 237 Contributions in the Year 2021
+> 🏆 238 Contributions in the Year 2021
  > 
-> 📦 158.9 kB Used in Github's Storage 
+> 📦 159.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,7 +102,7 @@ Sunday       22 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   42.1% 
+JavaScript               8 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   42.09% 
 Python                   6 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.88% 
 HTML                     1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
 JSON                     1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.43% 
