@@ -21,8 +21,8 @@ Learn how to [create your own](https://github.com/DanRowe/npx-card#readme)
 ### I am a full stack web developer, data science beginner, and Comp-Sci major [@UMD](https://umd.edu/)
 
 - 🔭 Working on a private MERN stack app
-- 🌱 Learning about Kubernetes!
-- 📚 Studying compilers, secure programming, and software paradigms.
+- 🌱 Learning about GraphQL!
+- 📚 Studying data science, database design, and software engineering practices.
 - ⚡ Fun fact: The first line of code I wrote was in JavaScript back in 2011
 
 ## Technologies
