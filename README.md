@@ -65,15 +65,15 @@ Learn how to [create your own](https://github.com/DanRowe/npx-card#readme)
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 289 Contributions in the Year 2021
+> 🏆 290 Contributions in the Year 2021
  > 
-> 📦 186.0 kB Used in Github's Storage 
+> 📦 186.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 21 Public Repositories 
  > 
-> 🔑 26 Private Repositories  
+> 🔑 27 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -102,11 +102,10 @@ Sunday       26 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 56 mins        █████████████████████████   99.83% 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 57 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
