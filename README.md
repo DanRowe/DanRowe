@@ -67,7 +67,7 @@ Learn how to [create your own](https://github.com/DanRowe/npx-card#readme)
 
 > 🏆 290 Contributions in the Year 2021
  > 
-> 📦 186.3 kB Used in Github's Storage 
+> 📦 186.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
