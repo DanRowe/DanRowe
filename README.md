@@ -102,14 +102,13 @@ Sunday       26 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JSON                     0 secs              █████████████████░░░░░░░░   70.23% 
-Markdown                 0 secs              ███████░░░░░░░░░░░░░░░░░░   29.77%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 04/07/2021
+ Last Updated on 05/07/2021
 <!--END_SECTION:waka-->
