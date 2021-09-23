@@ -63,11 +63,11 @@ Learn how to [create your own](https://github.com/DanRowe/npx-card#readme)
 <!-- [![DanRowe1's github stats](https://github-readme-stats.danrowe1.vercel.app/api?username=DanRowe1&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
-**🐱 My Github Data** 
+**🐱 My GitHub Data** 
 
 > 🏆 393 Contributions in the Year 2021
  > 
-> 📦 187.5 kB Used in Github's Storage 
+> 📦 187.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -102,17 +102,17 @@ Sunday       26 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               15 hrs 31 mins      ████████████████░░░░░░░░░   67.19% 
-JavaScript               7 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   30.93% 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.49% 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32% 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+TypeScript               21 hrs 10 mins      ████████████████████░░░░░   82.94% 
+JavaScript               3 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.85% 
+JSON                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84% 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-VS Code                  23 hrs 6 mins       █████████████████████████   100.0%
+VS Code                  25 hrs 31 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 22/09/2021
+ Last Updated on 23/09/2021
 <!--END_SECTION:waka-->
