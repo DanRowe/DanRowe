@@ -18,11 +18,10 @@ npx danrowe
 ```
 Learn how to [create your own](https://github.com/DanRowe/npx-card#readme)
 
-### I am a full stack web developer, data science beginner, and Comp-Sci major [@UMD](https://umd.edu/)
+### I am a full stack developer [@Team Engine](https://www.teamengine.io/), and Comp-Sci Alumn from [UMD](https://umd.edu/)
 
 - 🔭 Working on a private MERN stack app
-- 🌱 Learning about GraphQL!
-- 📚 Studying data science, database design, and software engineering practices.
+- 🌱 Always learning!
 - ⚡ Fun fact: The first line of code I wrote was in JavaScript back in 2011
 
 ## Technologies
